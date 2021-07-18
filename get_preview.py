@@ -47,3 +47,4 @@ def main(path):
 main('.')
 main('IB')
 main('IB/Physics')
+main('IB/Physics/Diffraction pattern')

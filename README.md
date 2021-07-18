@@ -176,6 +176,17 @@ IB/Physics/screenshots/Deflection of electron in magnetic field.png
 
 ![Deflection of electron in magnetic field.png preview](IB/Physics/screenshots/Deflection&#32;of&#32;electron&#32;in&#32;magnetic&#32;field.png)
 
+IB/Physics/Diffraction pattern/screenshots/material-AXwehWhC.png
+
+![material-AXwehWhC.png preview](IB/Physics/Diffraction&#32;pattern/screenshots/material-AXwehWhC.png)
+
+IB/Physics/Diffraction pattern/screenshots/phase difference.png
+
+![phase difference.png preview](IB/Physics/Diffraction&#32;pattern/screenshots/phase&#32;difference.png)
+
+IB/Physics/Diffraction pattern/screenshots/Slits.png
+
+![Slits.png preview](IB/Physics/Diffraction&#32;pattern/screenshots/Slits.png)
 
 # Credit
 
@@ -189,3 +200,4 @@ The following files are not made by me; their licenses goes to their respective 
 - IB/Physics/interference of two waves.ggb
 - IB/Physics/doppler effect frequency.ggb
 - IB/Physics/standing waves in a pipe.ggb
+- IB/Physics/Diffraction pattern/material-AXwehWhC.ggb
