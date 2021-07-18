@@ -181,11 +181,11 @@ IB/Physics/screenshots/Deflection of electron in magnetic field.png
 
 The following files are not made by me; their licenses goes to their respective authors.
 
-- IB/Physics/screenshots/standing wave harmonics.png
-- IB/Physics/screenshots/doppler effect animated.png
-- IB/Physics/screenshots/thin film interference.png
-- IB/Physics/screenshots/doppler effect.png
-- IB/Physics/screenshots/double slit diffraction.png
-- IB/Physics/screenshots/interference of two waves.png
-- IB/Physics/screenshots/doppler effect frequency.png
-- IB/Physics/screenshots/standing waves in a pipe.png
+- IB/Physics/standing wave harmonics.ggb
+- IB/Physics/doppler effect animated.ggb
+- IB/Physics/thin film interference.ggb
+- IB/Physics/doppler effect.ggb
+- IB/Physics/double slit diffraction.ggb
+- IB/Physics/interference of two waves.ggb
+- IB/Physics/doppler effect frequency.ggb
+- IB/Physics/standing waves in a pipe.ggb
