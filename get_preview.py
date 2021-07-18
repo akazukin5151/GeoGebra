@@ -24,8 +24,10 @@ def append_to_readme(f, path):
         base, ext = os.path.splitext(filename)
         if ext == '.png':
             full_path = f'{path}/screenshots/{filename}'
-            f.write(f'{full_path}\n')
-            f.write(f'[!{filename} preview]({full_path})\n')
+            # https://github.com/Microsoft/vscode/issues/7871
+            full_path_sanitized = full_path.replace(' ', '&#32;')
+            f.write(f'{full_path}\n\n')
+            f.write(f'![{filename} preview]({full_path_sanitized})\n')
             f.write('\n')
 
 def main(path):
